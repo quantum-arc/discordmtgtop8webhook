@@ -1,4 +1,4 @@
-# mtgtop8
+# mtgtop8 Testing this stupid thing
 
 Fetch data from http://mtgtop8.com. Useful to gather events and deck information.
 
